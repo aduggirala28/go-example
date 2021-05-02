@@ -1,2 +1,2 @@
 # go-example
-Personal test learning project 
+Personal test learning project for AWS Elastic beanstalk
